@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://lalit123:lalit123@devconnector.waxeu.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "mern_developer_tut"
+    "jwtSecret": "mern_developer_tut",
+    "githubClientId": "ccfa417eba24dac276b7",
+    "githubSecret": "50e27d0fc6d1a12e3616fc633b76e76b0167740d"
 }
