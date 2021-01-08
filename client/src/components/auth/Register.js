@@ -23,7 +23,7 @@ const Register = (props) => {
     if (password !== password2) {
       props.actions.setAlert('Passwords do not match', 'danger');
     } else {
-      console.log(formData);
+      // console.log(formData);
       props.registerUser.register(formData);
     }
   };

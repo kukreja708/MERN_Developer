@@ -17,7 +17,7 @@ const Login = (props) => {
 
   const submit = (e) => {
     e.preventDefault();
-    console.log(formData);
+    // console.log(formData);
     props.loginUser(email, password);
   };
 
